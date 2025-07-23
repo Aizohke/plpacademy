@@ -28,7 +28,5 @@ No installation required - runs directly in the browser.
 [Live Demo Link](#) (replace with actual link if available)
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- python
 
